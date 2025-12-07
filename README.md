@@ -16,8 +16,8 @@ Atualmente estou em busca da minha primeira oportunidade em segurança da inform
 
 ## Certificações
 - Google Cybersecurity Certificate | Google
-- Network Defense |||||||||||||||||| CISCO
-- Cyber Threat Management |||||||||| CISCO
+- Network Defense ||||||| CISCO
+- Cyber Threat Management ||| CISCO
 
 ## Experienca profissional
 **Jovem Aprendiz @ Ipro3D**
