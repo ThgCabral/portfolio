@@ -9,15 +9,15 @@ Atualmente estou em busca da minha primeira oportunidade em segurança da inform
 - Posso não saber de tudo porem possuo a disposição de pesquisar e te entregar o desejado.
 
 ## Educação
-- Tecnólogo, Cibersegurança - UNICID (_Cursando_)							       		
-- Tecnico, Informática - SENAC (_Junho 2022 - Dezembro 2024_)
-- Inglês b2 - KNN (_Agosto 2025 - Cursando_)
-- Assistente de segurança de Redes - SENAC (_Março 2025 - Agosto 2025_)
+- Tecnólogo, Cibersegurança -| UNICID (_Cursando_)							       		
+- Tecnico, Informática -| SENAC (_Junho 2022 - Dezembro 2024_)
+- Inglês b2 -| KNN (_Agosto 2025 - Cursando_)
+- Assistente de segurança de Redes -| SENAC (_Março 2025 - Agosto 2025_)
 
 ## Certificações
-- Google Cybersecurity Certificate - Google
-- Network Defense - CISCO
-- Cyber Threat Management - CISCO
+- Google Cybersecurity Certificate -| Google
+- Network Defense -| CISCO
+- Cyber Threat Management -| CISCO
 
 ## Experienca profissional
 **Jovem Aprendiz @ Ipro3D**
