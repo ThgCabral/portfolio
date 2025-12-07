@@ -15,9 +15,8 @@ Atualmente estou em busca da minha primeira oportunidade em segurança da inform
 - Assistente de segurança de Redes, SENAC (_Março 2025 - Agosto 2025_)
 
 ## Certificações
-- Google Cybersecurity Certificate | Google
-- Network Defense | CISCO 
-- Cyber Threat Management | CISCO
+Google Cybersecurity Certificate | Google
+Network Defense | CISCO 
 [Cyber Threat Management | CISCO](https://www.credly.com/badges/b8906d45-f8af-4c79-896b-3a2050d514e6/public_url)
 
 ## Experienca profissional
