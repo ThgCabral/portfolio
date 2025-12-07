@@ -16,8 +16,8 @@ Atualmente estou em busca da minha primeira oportunidade em segurança da inform
 
 ## Certificações
 - Google Cybersecurity Certificate | Google
-- Network Defense | CISCO <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="86ab0952-a055-47f8-b0d6-6fce369fffdf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-- Cyber Threat Management | CISCO <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8906d45-f8af-4c79-896b-3a2050d514e6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- Network Defense | CISCO 
+- Cyber Threat Management | CISCO https://www.credly.com/badges/b8906d45-f8af-4c79-896b-3a2050d514e6/public_url
 
 ## Experienca profissional
 **Jovem Aprendiz @ Ipro3D**
