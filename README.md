@@ -1,6 +1,6 @@
 # Analista SOC
 #### Habilidades: Proatividade, Aprendizado Rapido, Organização
-
+#### Contato: th.cabral02@gmail.com | 12 99781-6727
 ## Sobre
 Olá me chamo Thiago Cabral, sou um profissional proativo e comprometido, construindo carreira em Cibersegurança.
 Tenho experiência em atendimento ao cliente, possuo um pensamento analítico forte, boa capacidade de resolução de problemas e agilidade para aprender e implementar novas ferramentas. Tenho ética, clareza na tomada de decisões e motivação para crescer na área, sempre buscando evoluir e entregar valor aos projetos em que atuo.
