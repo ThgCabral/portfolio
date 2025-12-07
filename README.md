@@ -3,12 +3,11 @@
 
 ## Sobre
 #### Habilidades: Proatividade, Aprendizado Rapido, Organização
-Olá me chamo Thiago Cabral, sou um profissional proativo e comprometido, construindo carreira em Cibersegurança.
-Tenho experiência em atendimento ao cliente, possuo um pensamento analítico forte, boa capacidade de resolução de problemas e agilidade para aprender e implementar novas ferramentas. Tenho ética, clareza na tomada de decisões e motivação para crescer na área, sempre buscando evoluir e entregar valor aos projetos em que atuo.
-- Posso não saber de tudo porem possuo a disposição necessaria de pesquisar, estudar e te entregar.
+Olá, me chamo Thiago Cabral de Faria. Sou um profissional proativo e comprometido, construindo carreira em Cibersegurança. Tenho experiência em atendimento ao cliente, possuo pensamento analítico forte, boa capacidade de resolução de problemas e agilidade para aprender e implementar novas ferramentas. Tenho ética, clareza na tomada de decisões e motivação para crescer na área, sempre buscando evoluir e entregar valor aos projetos em que atuo.
 
-Atualmente estou em busca da minha primeira oportunidade em segurança da informação, pronto para contribuir com dedicação e aprender continuamente.
+Busco soluções com rapidez, aprendendo, aplicando novos conhecimentos e sempre disposto a novos aprendizados.
 
+Atualmente, estou em busca da minha primeira oportunidade em Segurança da Informação, pronto para contribuir com dedicação e aprender continuamente.
 
 ## Educação
 - Tecnólogo, Cibersegurança | UNICID (_Cursando_)							       		
