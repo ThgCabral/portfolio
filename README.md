@@ -1,4 +1,4 @@
-# Analista SOC
+# Analista de Cibersegurança
 #### Contato: th.cabral02@gmail.com | 12 99781-6727
 
 ## Sobre
@@ -7,7 +7,7 @@ Olá, me chamo Thiago Cabral de Faria. Sou um profissional proativo e comprometi
 
 Busco soluções com rapidez, aprendendo, aplicando novos conhecimentos e sempre disposto a novos aprendizados.
 
-Atualmente, estou em busca da minha primeira oportunidade em Segurança da Informação, pronto para contribuir com dedicação e aprender continuamente.
+Atualmente, estou em busca de uma oportunidade em Segurança da Informação, pronto para contribuir com dedicação e aprender continuamente.
 
 ## Educação
 - Tecnólogo, Cibersegurança | UNICID (_Cursando_)							       		
